@@ -19,7 +19,7 @@ public class DemoJdbc {
 
         String url = "jdbc:postgresql://localhost:5432/demo";
         String uname = "postgres";
-        String pass = "1";
+        String pass = "YOUR_PASSWORD";
 //        String sql = "select * from student";
 //        String sql = "insert into student values (6, 'Adam', 90)";
 //        String sql = "update student set sname = 'Max' where sid = 5";
